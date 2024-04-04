@@ -1,1 +1,1 @@
-# neural-networks-sample
+# sample code for various machine learning algorithms
