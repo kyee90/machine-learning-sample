@@ -1,1 +1,1 @@
-# sample code for various machine learning algorithms
+# sample code for various machine learning algorithms by Kieran Yee
